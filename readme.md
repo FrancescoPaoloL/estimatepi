@@ -31,6 +31,15 @@ After all the points have been generated and checked, the function calculates th
 ```
 Just Python 3.6.9
 ```
+
+## Test coverage
+| Name                | Stmts | Miss | Branch | BrPart | Cover |
+|---------------------|-------|------|--------|--------|-------|
+| estimate_pi.py      | 13    | 2    | 6      | 1      | 84%   |
+| estimate_pi_test.py | 16    | 1    | 4      | 1      | 90%   |
+| **TOTAL**               | **29**    | **3**    | **10**     | **2**      | **87%**   |
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
